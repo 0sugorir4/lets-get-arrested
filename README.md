@@ -18,7 +18,7 @@ In Japan, a schoolgirl was caught by the police for putting a link to a website 
 
 ```js
 while (1) {
-  alert("!");
+  alert("うんちぶりゅりゅりゅ💩");
 }
 ```
 
